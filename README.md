@@ -1,1 +1,1 @@
-https://salpagarov.github.io/lua/
+Lua.org russian version
